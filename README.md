@@ -2,21 +2,21 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nandhu</h1>
 
-<h3 align="center">I'm a passionate A.A.I Researcher And Developer from India.</h3>
+<h3 align="center">I'm a passionate A.A.I Researcher, Designer And Developer from India.</h3>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Project Destiny A.A.I]()**
+- 🔭 I’m currently working on **[Project Destiny A.A.I] As Data Analyst()**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me : **hariprasad.m68@gmail.com**
+- 📫 How to reach me : **nandhunandhunph@gmail.com**
 
-- ⚡ Fun fact **I play games and practice martial arts.**
+- ⚡ Fun fact **I play games, design graphics and practice martial arts.**
 
 ---
 
