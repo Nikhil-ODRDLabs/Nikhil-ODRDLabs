@@ -81,7 +81,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/nandhusrepo/github-readme-streak-stats">
+    <a href="https://github.com/Nikhil-ODRDLabs/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nandhu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-ODRDLabs&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -110,7 +110,7 @@
 
 ### Connect with me:
 
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-odrdl)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-krishnan-odrdl/)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__the.fallen.angels/)
 
 ---
